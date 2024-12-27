@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luxia.github.io</id>
+    <title>Luxia玩过的游戏</title>
+    <updated>2024-12-27T10:40:20.172Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://luxia.github.io"/>
+    <link rel="self" href="https://luxia.github.io/atom.xml"/>
+    <subtitle>玩点符合口味的游戏</subtitle>
+    <logo>https://luxia.github.io/images/avatar.png</logo>
+    <icon>https://luxia.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Luxia玩过的游戏</rights>
+    <entry>
+        <title type="html"><![CDATA[半妖忍少女]]></title>
+        <id>https://luxia.github.io/post/ban-yao-ren-shao-nu/</id>
+        <link href="https://luxia.github.io/post/ban-yao-ren-shao-nu/">
+        </link>
+        <updated>2024-12-27T09:42:56.000Z</updated>
+        <content type="html"><![CDATA[<p>游戏性不错，各方面都可圈可点。<br>
+来回刷章节触发CG<br>
+游戏修改方法，利用网页修改存档<br>
+resources\save下，<br>
+游戏内存档file1.rpgsave<br>
+CG和画廊解锁common.rpgsave</p>
+<figure data-type="image" tabindex="1"><img src="https://luxia.github.io/post-images/1735293043660.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝藏的家乡、稻荷、Inari v1.5.10]]></title>
+        <id>https://luxia.github.io/post/bao-cang-de-jia-xiang-dao-he-inari/</id>
+        <link href="https://luxia.github.io/post/bao-cang-de-jia-xiang-dao-he-inari/">
+        </link>
+        <updated>2024-12-03T18:46:04.000Z</updated>
+        <content type="html"><![CDATA[<p>虽然此游戏是AI画图加修改而来，但质量没想象中差。<br>
+一路有提示，所以不需要攻略。</p>
+<p>修改方法：<br>
+CE不能直接修改金币，需要商店买卖 盐 来获取金币，<br>
+如先买十个，然后卖三个，CE搜索3，以此类推。</p>
+<p>三位女主角、四位路人角色<br>
+高岭<img src="https://luxia.github.io/post-images/1733251955462.png" alt="" loading="lazy"><br>
+澪<img src="https://luxia.github.io/post-images/1733252202283.png" alt="" loading="lazy"><br>
+朝美<img src="https://luxia.github.io/post-images/1733252207406.png" alt="" loading="lazy"></p>
+<p>路人角色分别是 神社九尾狐、酒店女主管，沙滩救生员、灯塔农场女。</p>
+<p>由于目前玩到的版本是1.5.10版本，后续结局只能回忆模式下看到，<br>
+还只是单女主结婚怀孕结局，没有后宫和路人角色。</p>
+]]></content>
+    </entry>
+</feed>
